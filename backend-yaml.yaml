@@ -7,7 +7,7 @@ yaml:
 object:
   key: value
   array:
-    - null_value:
+    - null_value: true
     - boolean: true
     - integer: 1
     
