@@ -1,6 +1,8 @@
 json:
   - rigid: r2
     r1: d3
+    sss:
+      one: two
   - better for data interchange
 yaml:
   - slim and flexible
